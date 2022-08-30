@@ -2,7 +2,7 @@
 <h3 align="center">Junior web front-end developer.</h3>
 
 
-### 🧑🏻‍💻 Tech
+<h1 align="center">🧑🏻‍💻 Tech</h1>
 
 
 <p align="center">
