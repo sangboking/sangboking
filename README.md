@@ -1,5 +1,5 @@
 <h1 align="center">Sanghoon Park</h1>
-<h3 align="center">Junior web front-end developer.</h3>
+<h3 align="center">😊 Junior web front-end developer.</h3>
 
 
 
