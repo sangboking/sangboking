@@ -1,5 +1,5 @@
 <h1 align="center">Sanghoon Park</h1>
-<h2 align="center">😊 Junior web front-end developer.</h3>
+<h2 align="center">😊 Front-End Developer.</h3>
 
 
 
@@ -15,4 +15,5 @@
   <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
 </p>
+
 
